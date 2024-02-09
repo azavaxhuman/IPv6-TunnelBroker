@@ -145,6 +145,7 @@ case $choice in
     echo "Oh ! Ok , No problem!"
     sudo unlink /usr/local/bin/dds-ipv6
     sudo rm -rf /root/dds-ipv6/
+    exit 0
     # اینجا دستورات مورد نظر را قرار دهید
     else
 
