@@ -3,7 +3,7 @@
 # Check if running as root
 if [ "$EUID" -ne 0 ]; then
   echo "Please run as root"
-  exit
+  exit 
 fi
 GREEN=$(tput setaf 2)
 YELLOW=$(tput setaf 3)
