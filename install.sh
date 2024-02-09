@@ -14,6 +14,7 @@ RESET=$(tput sgr0)
 # Install required packages
 echo "Installing required packages..."
 apt update 
+apt install sysvbanner
 
 # Create symbolic link for iptables-dds script
 # به داخل پوشه مخزن می‌رویم
