@@ -33,7 +33,7 @@ ________________________________
 
 
 ```sh
-git clone https://github.com/azavaxhuman/IPv6-TunnelBroker.git /root/dds-ipv6 && chmod +x /root/dds-ipv6/install.sh && /root/ipv6/install.sh
+git clone https://github.com/azavaxhuman/IPv6-TunnelBroker.git /root/dds-ipv6 && chmod +x /root/dds-ipv6/install.sh && /root/dds-ipv6/install.sh
 ```
 <br>
 
