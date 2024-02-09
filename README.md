@@ -43,7 +43,7 @@ git clone https://github.com/azavaxhuman/IPv6-TunnelBroker.git /root/dds-ipv6 &&
 <br>
 
 ```sh
-dds-tunnel
+dds-ipv6
 ```
 
 ## YouTube 
