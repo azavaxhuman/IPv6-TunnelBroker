@@ -17,8 +17,8 @@ apt update
 
 # Create symbolic link for iptables-dds script
 # به داخل پوشه مخزن می‌رویم
-mkdir /root/dds-ip6
-cd /root/dds-ip6
+mkdir /root/dds-ipv6
+cd /root/dds-ipv6
 
 # ساخت لینک نمادین با نام dds-tunnel که به tunnel.sh اشاره دارد
 ln -s "$(pwd)/tunnelbroker.sh" /usr/local/bin/dds-ipv6
