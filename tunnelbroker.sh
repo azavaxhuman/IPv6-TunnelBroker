@@ -30,19 +30,19 @@ echo "--------------------------------------------------------------------------
 echo -e "${RESET}"
 
 # Display menu and prompt user for input
-echo -e "${CYAN}1. Add New Ipv6 ! ${RESET}"
+echo -e "${CYAN}    1. Add New Ipv6 ! ${RESET}"
 echo "                                                "
-echo "${YELLOW}2. Show System IP Addresses${RESET}"
+echo "${YELLOW} 2. Show System IP Addresses${RESET}"
 echo "                                                "
-echo "${MAGENTA}3. Show Routing Table${RESET}"
+echo "${MAGENTA}    3. Show Routing Table${RESET}"
 echo "                                                "
-echo "${GREEN}4. Check TunnelBroker Status${RESET}"
+echo "${GREEN}  4. Check TunnelBroker Status${RESET}"
 echo "                                                "
-echo "${BLUE}5. Delete TunnelBroker${RESET}"
+echo "${BLUE}   5. Delete TunnelBroker${RESET}"
 echo "                                                "
-echo "${RED}6. Unistall${RESET}"
+echo "${RED}    6. Unistall${RESET}"
 echo "                                                "
-echo "${RED}7. Exit${RESET}"
+echo "${RED}    7. Exit${RESET}"
 echo "                                                "
 }
 
