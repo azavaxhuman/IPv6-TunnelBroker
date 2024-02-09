@@ -169,7 +169,7 @@ while true; do
     
     # سوال برای بازگشت به منوی اصلی
     echo "                                                "
-    read -p "${GREEN}Return to main menu? (y/n): ${RESET}" answer
+    read -p "${GREEN}Return to main menu? (${GREEN}y${RESET}/${RED}n${RESET}): ${RESET}" answer
     case $answer in
         [Yy]* )
             ;;
